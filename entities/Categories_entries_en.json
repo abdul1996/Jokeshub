@@ -1,0 +1,23 @@
+[
+  {
+    "value": "love_jokes",
+    "synonyms": [
+      "love"
+    ]
+  },
+  {
+    "value": "funny_jokes",
+    "synonyms": [
+      "comedy",
+      "comical",
+      "funny"
+    ]
+  },
+  {
+    "value": "sarcasm_jokes",
+    "synonyms": [
+      "sarcasm",
+      "irony"
+    ]
+  }
+]
