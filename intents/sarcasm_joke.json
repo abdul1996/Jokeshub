@@ -1,0 +1,48 @@
+{
+  "id": "80d439fc-a198-47f6-96f7-ee4af078678b",
+  "name": "sarcasm_joke",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "50324f38-9a9b-4b47-bfd6-3da4c70cf89b",
+          "required": true,
+          "dataType": "@Categories",
+          "name": "Categories",
+          "value": "$Categories",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "\"Please tell me a category or type of joke you want to hear.Like you can ask for \"funny joke\", \"love joke\",\"sarcasm joke\" etc.\""
+            }
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I hate it when I go to hug someone really sexy and my face smashes right into the mirror. Want some more jokes? then ask or say \"quit\" to end the conversation,want some help then ask for \"help\".",
+            "When I see ads on TV featuring smiley housewives using some new cleaning product,\n the only thing I want to buy are the meds they’re clearly on.Want some more jokes? then ask or say \"quit\" to end the conversation,want some help then ask for \"help\".",
+            "Behind every angry woman is a man who has absolutely no idea what he did wrong. Want some more jokes? then ask or say \"quit\" to end the conversation,want some help then ask for \"help\".",
+            "Don\u0027t you hate it when someone answers their own questions? I do.  Want some more jokes? then ask or say \"quit\" to end the conversation,want some help then ask for \"help\"."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525240217,
+  "fallbackIntent": false,
+  "events": []
+}

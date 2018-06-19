@@ -1,0 +1,41 @@
+{
+  "id": "18876c79-f0d6-4baa-82df-9dc5547f26aa",
+  "name": "quit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "quit-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Bye..",
+            "Goodbye",
+            "thank you for visiting jokeshub",
+            "hope you enjoyed!!!!!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524940607,
+  "fallbackIntent": false,
+  "events": []
+}

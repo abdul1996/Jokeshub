@@ -1,0 +1,33 @@
+{
+  "id": "ed094a2a-e214-48fd-a007-b6c9f9ee7233",
+  "parentId": "18876c79-f0d6-4baa-82df-9dc5547f26aa",
+  "rootParentId": "18876c79-f0d6-4baa-82df-9dc5547f26aa",
+  "name": "quit - custom",
+  "auto": true,
+  "contexts": [
+    "quit-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "quit.quit-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

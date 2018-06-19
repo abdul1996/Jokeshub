@@ -1,0 +1,126 @@
+[
+  {
+    "id": "48684193-2509-4948-934b-f6e9fff7d431",
+    "data": [
+      {
+        "text": "jokes on ",
+        "userDefined": false
+      },
+      {
+        "text": "irony",
+        "alias": "Categories",
+        "meta": "@Categories",
+        "userDefined": false
+      },
+      {
+        "text": " type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525240217
+  },
+  {
+    "id": "2632c319-dff1-48e1-899a-1eb9031f2ae9",
+    "data": [
+      {
+        "text": "i want to listen some ",
+        "userDefined": false
+      },
+      {
+        "text": "sarcasm",
+        "alias": "Categories",
+        "meta": "@Categories",
+        "userDefined": false
+      },
+      {
+        "text": " type jokes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525240217
+  },
+  {
+    "id": "a8f6000b-0353-47b1-8313-5d905326e8d5",
+    "data": [
+      {
+        "text": "tell me some ",
+        "userDefined": false
+      },
+      {
+        "text": "sarcasm",
+        "alias": "Categories",
+        "meta": "@Categories",
+        "userDefined": false
+      },
+      {
+        "text": " jokes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525240217
+  },
+  {
+    "id": "81140993-f145-4ad2-97fc-f7ea800274a6",
+    "data": [
+      {
+        "text": "irony",
+        "alias": "Categories",
+        "meta": "@Categories",
+        "userDefined": false
+      },
+      {
+        "text": " jokes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525240217
+  },
+  {
+    "id": "b039b381-b1bf-4c91-bbe8-06afaaf41d38",
+    "data": [
+      {
+        "text": "sarcasm",
+        "alias": "Categories",
+        "meta": "@Categories",
+        "userDefined": false
+      },
+      {
+        "text": " joke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525240217
+  },
+  {
+    "id": "3228e5ef-fe9d-4554-b57d-90a10b648c02",
+    "data": [
+      {
+        "text": "i want some ",
+        "userDefined": false
+      },
+      {
+        "text": "irony",
+        "alias": "Categories",
+        "meta": "@Categories",
+        "userDefined": false
+      },
+      {
+        "text": " joke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525240217
+  }
+]

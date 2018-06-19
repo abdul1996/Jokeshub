@@ -1,0 +1,37 @@
+{
+  "id": "5bbc969a-83c4-4b45-bb52-d3ba6b608ce0",
+  "name": "help",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "\"1. Say a category of joke to listen jokes like, you can ask \"funny jokes\",\"love jokes\", \"sarcasm jokes\"                   \n 2. Say \"quit\" anytime to end the conversation.\""
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524940908,
+  "fallbackIntent": false,
+  "events": []
+}

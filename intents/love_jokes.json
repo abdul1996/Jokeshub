@@ -1,0 +1,48 @@
+{
+  "id": "8a3b70b4-2287-45cb-a197-750bd5ddd574",
+  "name": "love_jokes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2b1f0359-fdcb-4642-b26a-398d10ee67e2",
+          "required": true,
+          "dataType": "@Categories",
+          "name": "Categories",
+          "value": "$Categories",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "\"Please tell me a category or type of joke you want to hear.Like you can ask for \"funny joke\", \"love joke\",\"sarcasm joke\" etc.\""
+            }
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "A girl was thirsty. She saw an Alladin chirag besides her,\n She rubbed and ordered : JINN meri pyaas bujhao . \nJin: OK Madam. Pepsi wali ya Emraan Hashmi wali? Want some more jokes? then ask or say \"quit\" to end the conversation,want some help then ask for \"help\".",
+            "A management student hugs a girl.\ngirl: what is this?\nBoy: direct marketing.\nGirl slaps the boy\nBoy:what is this?\nGirl: customer feed back! Want some more jokes? then ask or say \"quit\" to end the conversation,want some help then ask for \"help\".",
+            "Amazing similarity between Love and food.\n If cross the limit the result is vomiting. Want some more jokes? then ask or say \"quit\" to end the conversation,want some help then ask for \"help\".",
+            "An intelligent girlfriend is one who makes sure that she makes her boyfriend spend so much,\n that her boyfriend cannot afford another girl in his life.. Want some more jokes? then ask or say \"quit\" to end the conversation,want some help then ask for \"help\"."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525240082,
+  "fallbackIntent": false,
+  "events": []
+}

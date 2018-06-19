@@ -1,0 +1,114 @@
+[
+  {
+    "id": "1f8aae02-8a08-4ec6-9b7b-84582be5db8e",
+    "data": [
+      {
+        "text": "love",
+        "alias": "Categories",
+        "meta": "@Categories",
+        "userDefined": false
+      },
+      {
+        "text": " related jokes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525238951
+  },
+  {
+    "id": "c24947cb-9fc3-4060-99a5-46c9000f532e",
+    "data": [
+      {
+        "text": "tell me some jokes on ",
+        "userDefined": false
+      },
+      {
+        "text": "love",
+        "alias": "Categories",
+        "meta": "@Categories",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525238951
+  },
+  {
+    "id": "7c616de0-7353-427f-bd9a-d06135262111",
+    "data": [
+      {
+        "text": "tell me some ",
+        "userDefined": false
+      },
+      {
+        "text": "love",
+        "alias": "Categories",
+        "meta": "@Categories",
+        "userDefined": false
+      },
+      {
+        "text": " jokes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525238951
+  },
+  {
+    "id": "5b0c5492-ae02-477d-9526-b433f081cc8d",
+    "data": [
+      {
+        "text": "i want ",
+        "userDefined": false
+      },
+      {
+        "text": "love",
+        "alias": "Categories",
+        "meta": "@Categories",
+        "userDefined": false
+      },
+      {
+        "text": " jokes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525238951
+  },
+  {
+    "id": "e999ca2b-3b9c-48bf-85de-1e9bcd0c8f8a",
+    "data": [
+      {
+        "text": "love",
+        "alias": "Categories",
+        "meta": "@Categories",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525238951
+  },
+  {
+    "id": "10a8676e-cd8d-4145-857e-d928e4bc3ed4",
+    "data": [
+      {
+        "text": "love",
+        "alias": "Categories",
+        "meta": "@Categories",
+        "userDefined": false
+      },
+      {
+        "text": " jokes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525238951
+  }
+]

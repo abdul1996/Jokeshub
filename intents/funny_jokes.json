@@ -1,0 +1,50 @@
+{
+  "id": "6404e8e9-cbcd-4f35-9682-9570de0e42f3",
+  "name": "funny_jokes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "efd48c82-0eb2-49aa-81d8-0d561f0f9d34",
+          "required": true,
+          "dataType": "@Categories",
+          "name": "category",
+          "value": "$category",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "\"Please tell me a category or type of joke you want to hear.Like you can ask for \"funny joke\", \"love joke\",\"sarcasm joke\" etc.\""
+            }
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Difference between a beautiful night and a horror night.\nBeautiful night is,\nWhen you hug your teddy bear and sleep.\nHorror night is,\nWhen your teddy bear hugs you BACK.                                                                                                                       \n                                                                                                                                                                                            \nWant some more jokes? then ask or say \"quit\" to end the conversation,want some help then ask for \"help\".",
+            "What is love?\nLove is our 7th sense that destroys all 6 sense\nAnd makes the person nonsense.                                                                                                                                \n                                                                                                                                                                                            Want some more jokes? then ask or say \"quit\" to end the conversation,want some help then ask for \"help\".",
+            "Once all the engineering professors were sitting in one plane.\nBefore the takeoff, one announcement came\n“This plane is made by your students”\nThen all professors stood up, ran and went outside.\nBut the principal was sitting.\nOne guy came and asked, “are you not afraid”?\nThen the principal replied\n“I trust my students very well and I am sure the plane won’t even start”.                                                              \n                                                                                                                                                                                            Want some more jokes? then ask or say \"quit\" to end the conversation,want some help then ask for \"help\"."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525239890,
+  "fallbackIntent": false,
+  "events": []
+}
